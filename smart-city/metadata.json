@@ -1,0 +1,8 @@
+
+{
+  "name": "Baramati Smart Map",
+  "description": "A lightweight, AI-powered navigation and traffic awareness dashboard for Baramati city, featuring real-time congestion alerts, emergency tracking, and weather impact analysis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
