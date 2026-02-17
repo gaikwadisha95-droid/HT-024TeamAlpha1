@@ -3,7 +3,7 @@ import { MapContainer, TileLayer, Marker, Popup, Polyline, useMap } from 'react-
 import L from 'leaflet';
 import { Menu, X, LocateFixed, AlertTriangle, Navigation, Square, Zap, ChevronRight, Map as MapIcon, Cloud, Info, Clock, ArrowRight, ZapOff, RefreshCcw } from 'lucide-react';
 import NavigationPanel from './components/NavigationPanel';
-import LoginPage from './components/LoginPage';
+import LoginPage from './components/Loginpage';
 import { BARAMATI_CENTER } from './constants';
 import { Location, RouteAnalysis, TrafficLevel } from './types';
 import { analyzeRouteIntelligence } from './services/geminiService';
